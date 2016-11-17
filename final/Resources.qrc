@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/data">
+        <file>data/textures/cloud.png</file>
+        <file>data/textures/grass.jpg</file>
+        <file>data/textures/rock.jpg</file>
+        <file>data/textures/sand.jpg</file>
+        <file>data/textures/snow.jpg</file>
+        <file>data/planes/c5.mtl</file>
+        <file>data/planes/c5.obj</file>
+        <file>data/planes/Maps/Arch73_08_Diff-blue.jpg</file>
+        <file>data/planes/Maps/Arch73_08_Spec.jpg</file>
+        <file>data/planes/Maps/GlassEnvironmentMap.jpg</file>
+        <file>data/planes/Maps/Arch73_08_Diff.jpg</file>
+        <file>data/planes/Maps/Arch73_08_Diff_BUMP.jpg</file>
+        <file>data/shaders/terrain.frag</file>
+        <file>data/shaders/terrain.vert</file>
+        <file>data/shaders/water.frag</file>
+        <file>data/shaders/water.vert</file>
+        <file>data/skydomes/sky.png</file>
+    </qresource>
+</RCC>
